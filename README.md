@@ -1,2 +1,2 @@
 # Group-2
-BSIT 1-2 Group 2 git rep
+This is for BSIT 1-2 Group 2 (Web Systems Technology)
